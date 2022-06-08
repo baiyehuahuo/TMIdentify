@@ -1,0 +1,16 @@
+tm_path: "./data/TM_pure/"
+other_path: "./data/NonVPN_50_pure/"
+use_dpi: false
+use_ml: true
+ml_judge_packet: 5
+dpi_judge_packet: 3
+dpi_base_threshold: 0.2
+dpi_filter_precision: 0.5
+split: false
+filter_short: true
+print_detect: false
+#label: true
+#sig_path: "classify/DPI/TM_4_0.10_0.50_0.50"
+#trees_path: ["classify/ML/decision_tree/NonVPN_all_5_with_TencentMeeting_ID3",
+#             "classify/ML/decision_tree/NonVPN_all_5_with_TencentMeeting_C4.5",
+#             "classify/ML/decision_tree/NonVPN_all_5_with_TencentMeeting_CART"]

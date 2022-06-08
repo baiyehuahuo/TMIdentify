@@ -1,0 +1,15 @@
+# 0 read from pcap     1 read from dir     2 calculate precision and filter    3 combine 1 and 2
+# 4 evaluate           5 print sigs        6 delete a sig from sigs            7 add a sig to sigs
+mode: 1
+csv_path: "data/pure_TencentMeeting.pcap"
+dir_path: "data/TencentMeeting"
+other_path: "data/NonVPN_50"
+judge_threshold: 5
+sig_min_length: 3
+base_threshold: 0.2
+inclusion_threshold: 0.5
+print_raw_bytes: true
+print_sig_bytes: false
+save_sigs: true
+save_sig_name: "TM"
+min_precision: 0.5

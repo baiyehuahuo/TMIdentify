@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de1f882f-7683-4afa-a27a-e725aa71f247" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/AIMchat1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/AIMchat1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/AIMchat2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/AIMchat2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/aim_chat_3a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/aim_chat_3a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/aim_chat_3b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/aim_chat_3b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/email1a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/email1a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/email1b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/email1b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/email2a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/email2a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/email2b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/email2b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/facebook_audio1a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/facebook_audio1a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/facebook_audio1b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/facebook_audio1b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/facebook_audio2a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/facebook_audio2a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/facebook_audio2b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/facebook_audio2b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/facebook_audio3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/facebook_audio3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/facebook_audio4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/facebook_audio4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/facebook_chat_4a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/facebook_chat_4a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/facebook_chat_4b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/facebook_chat_4b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/facebook_video1a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/facebook_video1a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/facebook_video1b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/facebook_video1b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/facebook_video2a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/facebook_video2a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/facebook_video2b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/facebook_video2b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/facebookchat1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/facebookchat1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/facebookchat2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/facebookchat2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/facebookchat3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/facebookchat3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/scp1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/scp1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/scpDown1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/scpDown1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/scpDown2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/scpDown2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/scpDown3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/scpDown3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/scpDown4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/scpDown4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/scpDown5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/scpDown5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/scpDown6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/scpDown6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/scpUp1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/scpUp1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/scpUp2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/scpUp2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/scpUp3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/scpUp3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/scpUp5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/scpUp5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/scpUp6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/scpUp6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/sftp1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/sftp1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/sftpDown1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/sftpDown1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/sftpDown2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/sftpDown2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/sftpUp1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/sftpUp1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/sftp_down_3a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/sftp_down_3a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/sftp_down_3b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/sftp_down_3b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/sftp_up_2a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/sftp_up_2a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/sftp_up_2b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/sftp_up_2b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/spotify1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/spotify1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/spotify2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/spotify2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/spotify3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/spotify3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/spotify4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/spotify4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/vimeo1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/vimeo1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/vimeo2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/vimeo2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/vimeo3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/vimeo3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/vimeo4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/vimeo4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/voipbuster1b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/voipbuster1b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/voipbuster2b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/voipbuster2b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/voipbuster3b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/voipbuster3b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/voipbuster_4a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/voipbuster_4a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/voipbuster_4b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/voipbuster_4b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/youtube1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/youtube1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/youtube2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/youtube2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/youtube3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/youtube3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/youtube4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/youtube4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/youtube5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/youtube5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/youtube6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/youtube6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_no_skype/youtubeHTML5_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_no_skype/youtubeHTML5_1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_audio1a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_audio1a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_audio1b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_audio1b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_audio2a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_audio2a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_audio2b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_audio2b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_audio3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_audio3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_audio4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_audio4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_chat1a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_chat1a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_chat1b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_chat1b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_file1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_file1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_file2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_file2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_file3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_file3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_file4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_file4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_file5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_file5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_file6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_file6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_file7.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_file7.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_file8.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_file8.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_video1a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_video1a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_video1b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_video1b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_video2a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_video2a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NonVPN_skype/skype_video2b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NonVPN_skype/skype_video2b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/AllPackets.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/tencentMeetingPackets.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/combine.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/record.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../tools/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25aISZZwQncq2JrWPVGRaFq1O9B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.format.on.save.advertiser.fired" value="true" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SchoolWork\UndergraduateGraduationDesign\GraduationProject\MyCode\labelCSV" />
+      <recent name="D:\study\GraduationProject\labelCSV\Test" />
+      <recent name="D:\study\GraduationProject\labelCSV" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="direct" />
+      </map>
+    </environment>
+  </component>
+</project>

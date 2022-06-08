@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/discretization" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dpi_module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dt_module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/identifyTencentMeeting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/labelCSV" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/label_csv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tm_identify" vcs="Git" />
+  </component>
+</project>

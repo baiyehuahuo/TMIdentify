@@ -1,0 +1,7 @@
+device_name: "\\Device\\NPF_{363B2123-859F-4299-8552-30C5E788B3D9}"
+ml_judge_packet: 5
+dpi_judge_packet: 3
+sig_path: "classify/DPI/TM_3_0.20_0.50_0.50"
+trees_path: ["classify/ML/decision_tree/NonVPN_all_5_with_TencentMeeting_ID3",
+             "classify/ML/decision_tree/NonVPN_all_5_with_TencentMeeting_C4.5",
+             "classify/ML/decision_tree/NonVPN_all_5_with_TencentMeeting_CART"]
